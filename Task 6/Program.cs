@@ -25,7 +25,7 @@
             }
 
             //before fixing error
-            //double percentage = ((double)marks / total) * 100;
+            //double percentage = (marks / total) * 100;
 
             double percentage = ((double)marks / total) * 100;
             Console.WriteLine($"Percentage: {percentage}%");
